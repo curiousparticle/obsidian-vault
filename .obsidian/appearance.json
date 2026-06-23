@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "textFontFamily": "Lora"
+  "textFontFamily": "Josefin Sans,Lora",
+  "baseFontSize": 18
 }
