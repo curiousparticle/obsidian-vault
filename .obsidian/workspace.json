@@ -197,13 +197,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "15529209d6ed4dab",
+  "active": "9ddcbba954add9a2",
   "lastOpenFiles": [
-    "Short Stories",
+    "Stories",
+    "Welcome.md",
     "Welcome with Git!.md"
   ]
 }
