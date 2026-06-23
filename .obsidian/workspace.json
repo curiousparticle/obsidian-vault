@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome with Git!.md",
+                "file": "Stories/Shorts/Sewers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome with Git!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e4b3267e267adf4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ffaec9632e84aec6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sewers"
             }
           }
         ]
@@ -200,10 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ddcbba954add9a2",
+  "active": "15529209d6ed4dab",
   "lastOpenFiles": [
+    "Stories/Shorts/test.md",
+    "Stories/Shorts/Sewers.md",
+    "Welcome with Git!.md",
+    "Stories/Shorts",
     "Stories",
-    "Welcome.md",
-    "Welcome with Git!.md"
+    "Welcome.md"
   ]
 }
