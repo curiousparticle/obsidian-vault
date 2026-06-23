@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Shorts/Sewers.md",
+                "file": "2026 Africa/africa-safari-packing-checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sewers"
+              "title": "africa-safari-packing-checklist"
             }
           }
         ]
@@ -184,15 +184,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "15529209d6ed4dab",
+  "active": "9ddcbba954add9a2",
   "lastOpenFiles": [
-    "Stories/Shorts/Myrna.md",
-    "Stories/Shorts/Struggle.md",
-    "Stories/Shorts/test.md",
+    "RPG/files/the-photo-was-taken-as-part-of-a-table-which-w",
+    "RPG/files/orange-dragon-illustration",
+    "RPG/files/img_0027.png",
+    "RPG/files/glacier-near-body-of-water",
+    "RPG/files/a-toy-knight-stands-in-action-as-if-walking-to",
+    "RPG/files/a-strange-looking-sculpture-in-the-middle-of-a",
+    "RPG/files/a-blue-d20-gaming-dice-sitting-in-a-purple-box",
+    "RPG/vaesen-notes.md",
+    "RPG/thoughts-on-rpg-systems.md",
+    "RPG/speeding-up-play.md",
+    "RPG/seraphine.md",
+    "RPG/running-dod-with-dragonbane.md",
+    "RPG/pyramid-labyrinth-minotars.md",
+    "RPG/paladin-fight.md",
+    "RPG/normalizing-the-cleric.md",
+    "RPG/nimble-nothic.md",
+    "RPG/how-to-run-dcc.md",
+    "RPG/house-rules.md",
+    "RPG/herbal-healing.md",
+    "RPG/files",
+    "RPG/dragonbane-overlooked-rules.md",
+    "RPG/dragonbane-effective-campaigns.md",
+    "RPG/dcc_p.md",
+    "RPG/characters.md",
+    "RPG/background-improv.md",
+    "RPG/archetype-deck.md",
+    "RPG/alternate-death-options.md",
+    "RPG/2025-01-21-dcc.md",
+    "RPG/2025-01-18.md",
+    "RPG",
     "Stories/Shorts/Sewers.md",
-    "Welcome with Git!.md",
-    "Stories/Shorts",
-    "Stories",
-    "Welcome.md"
+    "2026 Africa/schemas/page.schema.json",
+    "2026 Africa/schemas",
+    "2026 Africa/africa-safari-pre-departure-checklist.md",
+    "2026 Africa/africa-safari-packing-checklist.md",
+    "2026 Africa",
+    "Stories/Shorts/Myrna.md"
   ]
 }

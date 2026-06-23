@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2026-04-25T17:19:36Z"
+Creation date: "2026-04-25T17:19:36Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/a-toy-knight-stands-in-action-as-if-walking-to
+id: bafyreidh7d44hykvqqebmeyah76i3reigavim35ig7hxio3wogrgnkveqa
+---
+# A toy knight stands in action as if walking towards the camera while looking to their left   
+![A toy knight stands in action as if walking towards the camera while looking to their left](files/a-toy-knight-stands-in-action-as-if-walking-to)    
+**File Information**   

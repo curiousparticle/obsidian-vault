@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2026-01-15T20:18:09Z"
+Creation date: "2026-01-15T20:18:10Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/orange-dragon-illustration
+id: bafyreib3ucxsbjksjvh2zwzsbb5je45eqvmejrx4vskgsr3d3ebdsx7dy4
+---
+# orange dragon illustration   
+![orange dragon illustration](files/orange-dragon-illustration)    
+**File Information**   

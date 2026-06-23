@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2025-07-31T18:11:33Z"
+Creation date: "2025-07-31T18:11:33Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/glacier-near-body-of-water
+id: bafyreiaqp4dcw7u6wtxymrg4gm6pre2w7ac22eowitkfe4oa4dmp2kbqua
+---
+# glacier near body of water   
+![glacier near body of water](files/glacier-near-body-of-water)    
+**File Information**   

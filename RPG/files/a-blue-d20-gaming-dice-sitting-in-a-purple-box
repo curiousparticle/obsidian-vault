@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - DCC
+Added date: "2026-01-15T20:45:01Z"
+Creation date: "2026-01-15T20:45:01Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/a-blue-d20-gaming-dice-sitting-in-a-purple-box
+id: bafyreiebknxgc3b3cwce57jovcgkipnlt3p5l42xso6qxhekfr5ylhf7se
+---
+# A blue d20 gaming dice sitting in a purple box with the 20 facing up.   
+![A blue d20 gaming dice sitting in a purple box with the 20 facing up.](files/a-blue-d20-gaming-dice-sitting-in-a-purple-box)    
+**File Information**   
