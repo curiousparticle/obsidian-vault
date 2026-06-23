@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2025-08-08T12:24:52Z"
+Origin: 1
+Creation date: "2025-01-31T09:10:11Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/unnamed.jpg
+id: bafyreibck5gkh4msgksingz4pzq7guiiyaafpqoqjeealxy34gbes7c67u
+---
+# unnamed   
+![unnamed](files/unnamed.jpg)    
+**File Information**   

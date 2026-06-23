@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2026-01-25T13:26:06Z"
+Creation date: "2026-01-25T13:26:06Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/a-close-up-of-a-fire
+id: bafyreieaflobmwdod4mxmkpbhjngg6ljckhjqhjk7i4ekbodygqbeqa2e4
+---
+# a close up of a fire   
+![a close up of a fire](files/a-close-up-of-a-fire)    
+**File Information**   

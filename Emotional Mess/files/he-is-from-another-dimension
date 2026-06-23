@@ -1,0 +1,18 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - Emotions
+    - Uncertainty
+Added date: "2025-10-19T19:20:25Z"
+Creation date: "2025-10-19T19:20:25Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/he-is-from-another-dimension
+id: bafyreihiq33ogta5byzyobpjwnr5ntcnai4gnsyz2ugxwwywi7maxe62p4
+---
+# He is from another dimension   
+![He is from another dimension](files/he-is-from-another-dimension)    
+**File Information**   

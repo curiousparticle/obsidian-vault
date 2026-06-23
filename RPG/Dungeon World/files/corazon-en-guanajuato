@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2025-06-27T08:20:11Z"
+Creation date: "2025-06-27T08:20:11Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/corazon-en-guanajuato
+id: bafyreifkhm2rr27i6quamz7yikqtwmrcypimjujjqi5c4qwzvatxlayoui
+---
+# Corazón en Guanajuato   
+![Corazón en Guanajuato](files/corazon-en-guanajuato)    
+**File Information**   

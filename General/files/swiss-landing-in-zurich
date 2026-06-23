@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2025-09-19T06:40:06Z"
+Creation date: "2025-09-19T06:40:06Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/swiss-landing-in-zurich
+id: bafyreidg2gomtp2hqm42ivnhmgq64vs3k6cta3kl6dfbnalaop2vtvz7ya
+---
+# swiss landing in Zurich   
+![swiss landing in Zurich](files/swiss-landing-in-zurich)    
+**File Information**   

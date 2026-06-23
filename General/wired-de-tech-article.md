@@ -1,0 +1,16 @@
+---
+# yaml-language-server: $schema=schemas/page.schema.json
+Object type:
+    - Page
+Creation date: "2025-07-21T13:54:51Z"
+Created by:
+    - Alan Moreira
+id: bafyreihysweq6apd4etyoqovs4n4gpkbafy66zbzuzjjjh6hdie2l7wojq
+---
+# Wired De-Tech Article   
+   
+For people who prefer globally accurate maps free of Trump Sharpie defacements, and the Gulf of Mexico keeping its name, check out MagicEarth, TomTom AmiGO, HERE WeGo (all Netherlands-based) or OpenStreetMap (global contributors). Check out Vivaldi (Norway) for browsing, and Qwant (France) or Startpage (Netherlands) for a search engine. IONOS (Germany) is a Squarespace/Wix alternative, Pixelfed (Canada) can stand in for Instagram. StoryGraph (UK) for Goodreads. Affinity (UK/AU) or Canva (AU) can replace Adobe products, and Kobo (Canada/Japan) for an ebook reader.   
+Check out Plex or Jellyfin for music and video, Nextcloud for file storage and syncing, LibreOffice for an office suite, Affinity Suite to replace Adobe, SearXNG for search—all based outside the US. Codeberg (EU) is basically an open source, privacy-forward, community-run Github; one user has a handy [Linux-Is-Best/Outside\_Us\_Jurisdiction](https://codeberg.org/Linux-Is-Best/Outside_Us_Jurisdiction) listing for digital service providers. If you’re looking for a non-US Starlink alternative, [Eutelsat](https://www.eutelsat.com/en/satellites.html) may have you covered.   
+To find other services that suit your needs, take a look through this sprawling, collectively curated [Non-US Alternatives List](https://github.com/anitwek/alternatives-to-us) of everything from email to antivirus programs, e- commerce and social media options, and more. [European Alternatives](https://european-alternatives.eu/categories) also has a growing collection of categories listing services from web analytics and cloud platforms to password managers, web browsers, calendars, and even a few music streaming services.   
+Concerns prompting people to jettison US digital services isn’t new, but it’s only getting more popular as the lines between Trump’s White House and Big Tech grow less distinct by the day. There are over a quarter million members in the [r/degoogle subreddit/](https://www.reddit.com/r/degoogle/),where members share tips, tricks, and reviews on everything they’re using to replace Google products or ditch US products altogether.   
+   

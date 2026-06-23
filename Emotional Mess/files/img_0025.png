@@ -1,0 +1,15 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Added date: "2025-10-19T19:12:51Z"
+Creation date: "2025-10-19T19:12:51Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/img_0025.png
+id: bafyreif32dzgqdni7cbs7bwfeuhavqohytecs53fpysc3u2wff42ygg4se
+---
+# IMG\_0025   
+![IMG_0025](files/img_0025.png)    
+**File Information**   

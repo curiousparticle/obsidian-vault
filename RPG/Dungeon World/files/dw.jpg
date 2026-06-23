@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - Dungeon World
+Added date: "2025-06-27T08:06:41Z"
+Creation date: "2025-06-27T08:06:41Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/dw.jpg
+id: bafyreiazeyljduskexosvqehxbcm6y2dvbyajrxed3advxzw5wiptebsrq
+---
+# DW   
+![DW](files/dw.jpg)    
+**File Information**   

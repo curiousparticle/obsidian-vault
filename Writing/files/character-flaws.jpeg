@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - character-flaws-list.md
+Added date: "2025-07-21T13:40:50Z"
+Creation date: "2025-07-21T13:40:50Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/character-flaws.jpeg
+id: bafyreigoxpflkxw7dn5jkp2dci2w7b3ebpylunkedwi6fwveqa6lmzdi2u
+---
+# Character Flaws   
+![Character Flaws](files/character-flaws.jpeg)    
+**File Information**   

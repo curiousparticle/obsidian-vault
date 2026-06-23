@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - Attached
+Added date: "2025-10-19T19:18:19Z"
+Creation date: "2025-10-19T19:18:19Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/good-boy
+id: bafyreifvwoaagfsdkljnjhxf4l2fgg5gk7t2e6bk2ack2m7o3btwgwu5ky
+---
+# Good boy   
+![Good boy](files/good-boy)    
+**File Information**   

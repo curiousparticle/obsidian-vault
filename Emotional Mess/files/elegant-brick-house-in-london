@@ -1,0 +1,17 @@
+---
+# yaml-language-server: $schema=schemas/image.schema.json
+Object type:
+    - Image
+Backlinks:
+    - making-the-home-safe.md
+Added date: "2025-10-19T19:21:47Z"
+Creation date: "2025-10-19T19:21:47Z"
+Created by:
+    - Alan Moreira
+Image:
+    - files/elegant-brick-house-in-london
+id: bafyreihwp7q5frog23fzwcfcbzipoacfnrtqkrllie3ype4uqrd7engg4q
+---
+# Elegant brick house in London   
+![Elegant brick house in London](files/elegant-brick-house-in-london)    
+**File Information**   
